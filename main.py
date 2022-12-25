@@ -41,7 +41,7 @@ time.sleep(1)
 targetHour = 20
 targetMinute = 29
 targetSecond = 59
-
+ 
 while(1):
     localTimeTuple = time.localtime()
     hour = localTimeTuple[3]
